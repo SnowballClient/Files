@@ -1,0 +1,5 @@
+Testing 123 
+&eI Can Has Color!
+&a [+] Added
+&c[-] Removed
+&b[*] Fixed
