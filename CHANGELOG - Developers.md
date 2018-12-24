@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-##### This change log is only really useful to the developers who use the SnowballAPI to create plugins. If you are a user, please check [[here]]() for the user change log.
+##### This change log is only really useful to the developers who use the SnowballAPI to create plugins. If you are a user, please check [[here]](https://github.com/SnowballClient/Files/blob/master/CHANGELOG%20-%20Users.md) for the user change log.
 
 ## [[1.0.0]](https://github.com/SnowballClient/Installer/raw/master/%23%20Releases/Snowball%20v1.0.0%20Installer.jar) - 12/11/2018
 ### Added
